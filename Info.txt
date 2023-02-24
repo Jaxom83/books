@@ -1,0 +1,6 @@
+Żeby uruchimić program 
+otwożyć 2 terminale:
+
+1 powershell komenda:        npm start
+
+2 gitbash komenda:           npm run server
